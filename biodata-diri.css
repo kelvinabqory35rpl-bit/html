@@ -1,0 +1,54 @@
+/*  3 ELEMENT SELECTOR (body, h2, strong) */
+
+/* Element Selector 1  */
+body {
+    background-color: bisque;
+    font-family: Arial, sans-serif;
+    padding: 20px;
+    min-height: 95vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/* Element Selector 2  */
+h2 {
+    color: #333;
+    font-size: 22px;
+    margin-top: 20px;
+}
+
+/* Element Selector 3  */
+strong {
+    color: #555;
+}
+
+
+/*   2 CLASS SELECTOR (.p dan .motto) */
+
+/* Class Selector 1  */
+.p {
+    color: black;
+    background-color: bisque;
+    font-size: 18px;
+    margin: 8px 0;
+}
+
+/* Class Selector 2 (Tambahan untuk teks motto hidup) */
+.motto {
+    color: brown;
+    font-style: italic;
+    font-size: 18px;
+}
+
+
+/*  1 ID SELECTOR (#header)*/
+
+/* ID Selector*/
+#header {
+    color: aqua;
+    background-color: black;
+    text-align: center;
+    padding: 10px;
+}
+
